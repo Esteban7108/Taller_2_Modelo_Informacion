@@ -1,5 +1,4 @@
-## 🔖 Nombre del Taller
-_Taller 2 - Modelo_Informacion_
+## 🔖 _Taller 2 - Modelo_Informacion_
 
 ## 👥 Integrantes del equipo
 - Juliana Moreno
